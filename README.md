@@ -1,7 +1,7 @@
 # LG-Climate-component-for-Home-Assistant
 Based on my Tasmota Irhvac Custom Component
 
-Currently tested and woring in Home Assistant up to v.106.5
+Currently tested and woring in Home Assistant up to v.108.3
 
 Copy lg_climate folder to your `config/custom_component` folder
 
