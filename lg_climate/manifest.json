@@ -1,6 +1,7 @@
 {
     "domain": "lg_climate",
     "name": "LG CLimate",
+    "version": "2021.5.30",
     "documentation": "https://www.home-assistant.io/integrations/lg_climate",
     "requirements": [],
     "dependencies": [
